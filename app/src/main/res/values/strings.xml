@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="cloud">cloud</string>
+    <string name="min">min</string>
+    <string name="max">max</string>
+    <string name="average">average</string>
+    <string name="weather_today">Weather today.</string>
+    <string name="thermostat">thermostat</string>
+    <string name="humidity">humidity</string>
+    <string name="wind_speed">wind speed</string>
+    <string name="sunrise">sunrise</string>
+    <string name="sunset">sunset</string>
+</resources>
